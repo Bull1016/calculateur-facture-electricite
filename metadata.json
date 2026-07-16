@@ -1,0 +1,6 @@
+{
+  "name": "Calculateur Facture Électricité",
+  "description": "Calculateur interactif de facture d'électricité basse tension basé sur les tarifs officiels (BT 1 domestique, BT 2 professionnel, BT 3 éclairage public) avec paramètres modifiables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
